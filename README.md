@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about React, Typescript, NodeJS and SQL
+- 🌱 Currently learning data structures in C and Python.
 - 📫 How to reach me: @toommauro
