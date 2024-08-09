@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **PHP, Javascript e Python**
+  🦄 Linguagens: PHP e Laravel, Javascript, Python e C.
 </p>
 
 <p align="left">
-  💼 Faculdade: **FATEC - Análise e Desenvolvimento de Sistemas**
+  💼 FATEC - Análise e Desenvolvimento de Sistemas.
 </p>
 
 <p align="left">
