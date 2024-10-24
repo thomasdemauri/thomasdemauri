@@ -10,6 +10,10 @@
 </p>
 
 <p align="left">
+  <a href="https://judge.beecrowd.com/pt/profile/660140">Perfil beecrowd</a>
+</p>
+
+<p align="left">
   💼 FATEC - Análise e Desenvolvimento de Sistemas.
 </p>
 
